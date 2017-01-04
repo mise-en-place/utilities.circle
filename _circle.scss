@@ -1,10 +1,11 @@
 // ==========================================================================
 // CIRCLE
 // ==========================================================================
+
 /*doc
 ---
 title: Circle
-name: 11_circle
+name: circle
 category: utilities
 ---
 
@@ -18,7 +19,6 @@ This class creates a circle over an image by using the `border-radius` property.
     <img src="http://placehold.it/100x100">
 </figure>
 ```
-
 */
 
 @mixin circle(){
