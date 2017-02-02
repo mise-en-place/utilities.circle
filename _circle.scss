@@ -21,11 +21,7 @@ This class creates a circle over an image by using the `border-radius` property.
 ```
 */
 
-@mixin circle(){
-    overflow: hidden;
-    width: auto;
-    border-radius: 100%;
-}
+@import './mixins';
 
 .u-circle {
     @include circle();
