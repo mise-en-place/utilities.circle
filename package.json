@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.circle.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.circle": "github:mise-en-place/tools.circle"
+  }
 }

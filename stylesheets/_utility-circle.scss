@@ -21,7 +21,7 @@ This class creates a circle over an image by using the `border-radius` property.
 ```
 */
 
-@import './mixins';
+@import "tool-circle";
 
 .u-circle {
     @include circle();
