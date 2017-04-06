@@ -21,7 +21,7 @@ This class creates a circle over an image by using the `border-radius` property.
 ```
 */
 
-@import "tool-circle";
+@import "~mep-tools.circle";
 
 .u-circle {
     @include circle();
